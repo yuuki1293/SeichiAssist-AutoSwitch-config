@@ -383,3 +383,4 @@ D @diamond_pickaxe < @
 S @diamond_sword > @leef
 S @diamond_shovel > sand
 S @diamond_shovel > @dirt
+S @diamond_shovel > gravel
