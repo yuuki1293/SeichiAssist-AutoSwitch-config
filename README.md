@@ -1,5 +1,5 @@
 # SeichiAssist-AutoSwitch-config
-ギガンティック☆整地鯖でAutoSwitchを使う際の不具合の一部をなくすconfigファイル
+ギガンティック☆整地鯖でAutoSwitchを使う際の不具合の一部をなくすconfigファイル(非公式)
 
 ## 修正される不具合
 ・砂を木の棒やガチャりんごで掘る  
