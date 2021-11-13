@@ -380,7 +380,8 @@ W mocreatures:silversword > MoCreatures.Werewolf
 
 D @diamond_shovel < @
 D @diamond_pickaxe < @
-S @diamond_sword > @leef
-S @diamond_shovel > @sand
-S @diamond_shovel > @dirt
-S @diamond_shovel > gravel
+S @diamond_sword < @
+S stick < @
+S golden_apple < @
+S enchanted_golden_apple < @
+S @diamond_shovel > @gravel | @sand | @dirt
