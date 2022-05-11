@@ -384,4 +384,4 @@ S @diamond_sword < @
 S stick < @
 S golden_apple < @
 S enchanted_golden_apple < @
-S @diamond_shovel > @gravel | @sand | @dirt | grass
+S @diamond_shovel > @gravel | @sand | @dirt | grass | soul_sand
